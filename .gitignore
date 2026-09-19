@@ -1,0 +1,6 @@
+# full-size originals downloaded from cityprintusa.com (site uses the optimized .webp files)
+assets/img/src/
+
+# local tooling
+.claude/
+.DS_Store
